@@ -136,9 +136,7 @@
 # Divide by total observations
 # Example
 
-# Data: 2, 4, 6
 
-# Mean = 4
 
 
 # | x | x − x̄ | (x − x̄)² |
