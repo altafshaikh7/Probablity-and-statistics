@@ -146,3 +146,5 @@
 # Better statistical analysis
 # Helps identify errors
 # Disadvantages
+# Removing true data may reduce accuracy
+# Sometimes difficult to identify correctly
