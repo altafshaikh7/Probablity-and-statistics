@@ -36,3 +36,6 @@
 # 1. Symmetric Density Curve
 # Left and right sides are equal
 # Mean = Median
+
+# 2. Right-Skewed Density Curve
+# Tail extends toward right
