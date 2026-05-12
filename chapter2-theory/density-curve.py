@@ -42,3 +42,15 @@
 
 # 3. Left-Skewed Density Curve
 # Tail extends toward left
+
+
+
+# Important Properties
+# Mean
+# Center of density curve.
+
+# Median
+# Point dividing area into two equal halves.
+
+# Mode
+# Highest point of curve.
