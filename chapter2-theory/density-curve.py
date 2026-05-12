@@ -54,3 +54,10 @@
 
 # Mode
 # Highest point of curve.
+
+
+# Probability in Density Curve
+# Probability is represented by area under curve.
+
+# Formula
+# P(a<x<b)=Area under the curve between a and b
