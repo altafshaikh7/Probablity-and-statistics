@@ -30,3 +30,9 @@
 # Height
 # Weight
 # Temperature
+
+
+# Shape of Density Curve
+# 1. Symmetric Density Curve
+# Left and right sides are equal
+# Mean = Median
