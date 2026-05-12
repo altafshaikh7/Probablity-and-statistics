@@ -21,8 +21,3 @@
 
 
 
-# Uses
-# Showing percentages
-# Comparing proportions
-# Business reports and surveys
-# Budget and population analysis
