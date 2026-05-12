@@ -39,3 +39,6 @@
 
 # 2. Right-Skewed Density Curve
 # Tail extends toward right
+
+# 3. Left-Skewed Density Curve
+# Tail extends toward left
