@@ -5,13 +5,9 @@
 
 # Center of data
 
-
 # Spread of data
 
-
 # Presence of outliers
-
-
 
 # The Five Numbers
 # The five-number summary consists of:
@@ -19,16 +15,10 @@
 
 # Minimum value
 
-
 # First Quartile (Q₁)
-
-
 # Median (Q₂)
 
-
 # Third Quartile (Q₃)
-
-
 # Maximum value
 
 
@@ -85,16 +75,10 @@
 
 # Minimum → left whisker
 
-
 # Q₁ → left side of box
-
-
 # Median → line inside box
 
-
 # Q₃ → right side of box
-
-
 # Maximum → right whisker
 
 
@@ -113,24 +97,14 @@
 
 
 # Easy to understand
-
-
 # Gives quick overview of data
-
-
 # Helps identify outliers
-
-
 # Useful for box plots
 
 
 
 # Disadvantages
-
-
 # Does not use all data values
-
-
 # Less detailed than variance or standard deviation
 
 
@@ -145,17 +119,11 @@
 # Research
 # Compares datasets easily.
 
+
 # Important Points
 
-
 # Five-number summary gives a compact description of data.
-
-
 # Quartiles divide data into four equal parts.
-
-
 # It is closely related to IQR and box plots.
-
-
 # Useful for detecting skewness and outliers.
 
