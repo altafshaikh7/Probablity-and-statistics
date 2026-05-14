@@ -63,9 +63,3 @@
 # P(a<x<b)=Area under the curve between a and b
 
 
-# Uses of Density Curve:
-# Understanding data distribution
-# Probability analysis
-# Machine Learning
-# Statistical analysis
-# Data visualization
