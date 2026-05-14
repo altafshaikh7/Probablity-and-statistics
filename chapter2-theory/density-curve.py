@@ -67,5 +67,5 @@
 # Understanding data distribution
 # Probability analysis
 # Machine Learning
-
+# Statistical analysis
 # Data visualization
