@@ -42,5 +42,3 @@
 # 🌦 Weather Forecast
 # Rain prediction
 
-# 🔐 Cyber Security
-# Fraud detection
