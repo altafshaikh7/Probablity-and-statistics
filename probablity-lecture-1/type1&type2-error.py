@@ -59,3 +59,8 @@
 # Type II Error
 # Teacher says student didn’t cheat, but actually student cheated.
 
+# Important Point
+# In hypothesis testing:
+# Lower α → fewer Type I errors
+# But sometimes Type II errors increase.
+# So both errors are balanced carefully.
