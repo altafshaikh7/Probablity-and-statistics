@@ -9,7 +9,11 @@
 # population standard deviation (σ) is known
 
 
-
+# | Type              | Use                                      |
+# | ----------------- | ---------------------------------------- |
+# | One-sample Z-test | Compare sample mean with population mean |
+# | Two-sample Z-test | Compare two sample means                 |
+# | Proportion Z-test | Compare proportions                      |
 
 
 # Key Points
