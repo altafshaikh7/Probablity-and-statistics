@@ -16,8 +16,3 @@
 # | Proportion Z-test | Compare proportions                      |
 
 
-# Key Points
-# Used for large samples
-# Uses normal distribution
-# Faster and simpler than T-test
-# If population SD is unknown and sample is small → use T-test instead
