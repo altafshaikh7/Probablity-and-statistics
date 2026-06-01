@@ -30,3 +30,12 @@
 
 
 
+# Steps in Hypothesis Testing
+# | Step | Description                           |
+# | ---- | ------------------------------------- |
+# | 1    | State null and alternative hypotheses |
+# | 2    | Choose significance level ((\alpha))  |
+# | 3    | Collect sample data                   |
+# | 4    | Calculate test statistic              |
+# | 5    | Find p-value / critical value         |
+# | 6    | Accept or reject (H_0)                |
