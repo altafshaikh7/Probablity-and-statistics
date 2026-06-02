@@ -25,6 +25,12 @@
 
 # Where:
 
+# A′= event “not A”
+
+# Example:
+# If probability of rain is 0.7, then probability of no rain:
+
+# 1−0.7=0.3
 
 
 
