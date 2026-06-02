@@ -38,3 +38,9 @@
 # 6. Mutually Exclusive Rule
 # 7. Conditional Probability Rule
 
+# Uses of Probability Rules
+# Games and gambling
+# Weather prediction
+# Risk analysis
+# Data science and machine learning
+# Medical testing
