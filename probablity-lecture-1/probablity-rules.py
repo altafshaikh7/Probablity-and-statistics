@@ -33,7 +33,10 @@
 # 1−0.7=0.3
 
 
-
+# 4. Addition Rule
+# 5. Multiplication Rule
+# 6. Mutually Exclusive Rule
+# 7. Conditional Probability Rule
 
 # Uses of Probability Rules
 # Games and gambling
